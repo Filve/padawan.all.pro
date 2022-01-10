@@ -1,2 +1,2 @@
 # padawan.gaia.setup
-First Project
+All code is for teach and learn how to coding
